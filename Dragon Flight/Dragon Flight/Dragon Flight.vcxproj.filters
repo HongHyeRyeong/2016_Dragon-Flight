@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="boss_mask.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="clear.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="enemy1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="enemy1_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="enemy2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="enemy2_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="explosion.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="explosion_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="gameover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="hpbar_empty.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="hpbar_empty_mask.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="hpbar_full.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="hpbar_full_mask.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="itemattack.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="itemcoin.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="itemcoin_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="itemhp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="itemhp_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="itemshield.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="itemsuper.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="meteo.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="meteo_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="missile1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="missile2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="missile2mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="missile3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="missile3mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="player.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="player_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="shleid.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="shleid_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="start.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="start2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="stone.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="stone_mask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="super.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="supermask.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="background1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="background2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="background3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="boss.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="boss_hp_empty.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="boss_hp_empty_mask.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="boss_hp_full.BMP">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Object.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_BG1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_BG2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_BG3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_Boss.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_Explosion.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_Meteo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_midMonster.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_missile.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_missile2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_missile3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_Monster.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Object_Stone.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Object_BG1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_BG2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_BG3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_Boss.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_Explosion.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_Meteo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_midMonster.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_missile.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_missile2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_missile3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_Monster.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_Player.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Object_Stone.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WinProject.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="공격할때.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="상점열때.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="시작할때.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="아이템담을때.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="아이템샀을때.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="최종보스등장했을때.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="최종보스죽었을때.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="플레이어가 맞았을떄.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="필살기.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

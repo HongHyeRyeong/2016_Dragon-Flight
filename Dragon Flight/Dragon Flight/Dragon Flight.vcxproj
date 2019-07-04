@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <ProjectGuid>{B3248179-2EEA-478F-81DE-890624C7FAEC}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>DragonFlight</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Image Include="background1.bmp" />
+    <Image Include="background2.bmp" />
+    <Image Include="background3.bmp" />
+    <Image Include="boss.BMP" />
+    <Image Include="boss_hp_empty.BMP" />
+    <Image Include="boss_hp_empty_mask.BMP" />
+    <Image Include="boss_hp_full.BMP" />
+    <Image Include="boss_mask.BMP" />
+    <Image Include="clear.bmp" />
+    <Image Include="enemy1.bmp" />
+    <Image Include="enemy1_mask.bmp" />
+    <Image Include="enemy2.bmp" />
+    <Image Include="enemy2_mask.bmp" />
+    <Image Include="explosion.bmp" />
+    <Image Include="explosion_mask.bmp" />
+    <Image Include="gameover.bmp" />
+    <Image Include="hpbar_empty.BMP" />
+    <Image Include="hpbar_empty_mask.BMP" />
+    <Image Include="hpbar_full.BMP" />
+    <Image Include="hpbar_full_mask.BMP" />
+    <Image Include="itemattack.bmp" />
+    <Image Include="itemcoin.bmp" />
+    <Image Include="itemcoin_mask.bmp" />
+    <Image Include="itemhp.bmp" />
+    <Image Include="itemhp_mask.bmp" />
+    <Image Include="itemshield.bmp" />
+    <Image Include="itemsuper.bmp" />
+    <Image Include="meteo.bmp" />
+    <Image Include="meteo_mask.bmp" />
+    <Image Include="missile1.bmp" />
+    <Image Include="missile2.bmp" />
+    <Image Include="missile2mask.bmp" />
+    <Image Include="missile3.bmp" />
+    <Image Include="missile3mask.bmp" />
+    <Image Include="player.bmp" />
+    <Image Include="player_mask.bmp" />
+    <Image Include="shleid.bmp" />
+    <Image Include="shleid_mask.bmp" />
+    <Image Include="start.bmp" />
+    <Image Include="start2.bmp" />
+    <Image Include="stone.bmp" />
+    <Image Include="stone_mask.bmp" />
+    <Image Include="super.bmp" />
+    <Image Include="supermask.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Object.h" />
+    <ClInclude Include="Object_BG1.h" />
+    <ClInclude Include="Object_BG2.h" />
+    <ClInclude Include="Object_BG3.h" />
+    <ClInclude Include="Object_Boss.h" />
+    <ClInclude Include="Object_Explosion.h" />
+    <ClInclude Include="Object_Meteo.h" />
+    <ClInclude Include="Object_midMonster.h" />
+    <ClInclude Include="Object_missile.h" />
+    <ClInclude Include="Object_missile2.h" />
+    <ClInclude Include="Object_missile3.h" />
+    <ClInclude Include="Object_Monster.h" />
+    <ClInclude Include="Object_Player.h" />
+    <ClInclude Include="Object_Stone.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Scene.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Object_BG1.cpp" />
+    <ClCompile Include="Object_BG2.cpp" />
+    <ClCompile Include="Object_BG3.cpp" />
+    <ClCompile Include="Object_Boss.cpp" />
+    <ClCompile Include="Object_Explosion.cpp" />
+    <ClCompile Include="Object_Meteo.cpp" />
+    <ClCompile Include="Object_midMonster.cpp" />
+    <ClCompile Include="Object_missile.cpp" />
+    <ClCompile Include="Object_missile2.cpp" />
+    <ClCompile Include="Object_missile3.cpp" />
+    <ClCompile Include="Object_Monster.cpp" />
+    <ClCompile Include="Object_Player.cpp" />
+    <ClCompile Include="Object_Stone.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="WinMain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WinProject.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="공격할때.wav" />
+    <Media Include="상점열때.wav" />
+    <Media Include="시작할때.wav" />
+    <Media Include="아이템담을때.wav" />
+    <Media Include="아이템샀을때.wav" />
+    <Media Include="최종보스등장했을때.wav" />
+    <Media Include="최종보스죽었을때.wav" />
+    <Media Include="플레이어가 맞았을떄.wav" />
+    <Media Include="필살기.wav" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

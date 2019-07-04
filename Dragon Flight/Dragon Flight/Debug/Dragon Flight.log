@@ -1,0 +1,124 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (WinProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Object_BG1.cpp
+  Object_BG2.cpp
+  Object_BG3.cpp
+  Object_Boss.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(39,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(39,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(39,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(39,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(41,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(41,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(41,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_Explosion.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Boss.cpp(41,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(35,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(35,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(35,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(35,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(35,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(37,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(37,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(37,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(37,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_Meteo.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Explosion.cpp(37,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(38,26): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(38,23): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(38,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(38,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(40,26): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(40,23): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(40,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_midMonster.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Meteo.cpp(40,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(52,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(52,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(52,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(52,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(52,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(54,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(54,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(54,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(54,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(54,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(58,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(58,19): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(60,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(60,19): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(65,32): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(65,24): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(68,32): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(68,24): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(71,32): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(71,24): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(74,32): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(74,24): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(77,32): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_missile.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_midMonster.cpp(77,24): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile.cpp(39,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile.cpp(39,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile.cpp(39,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile.cpp(40,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile.cpp(40,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_missile2.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile.cpp(40,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile2.cpp(40,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile2.cpp(40,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile2.cpp(40,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile2.cpp(42,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile2.cpp(42,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_missile3.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile2.cpp(42,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile3.cpp(40,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile3.cpp(40,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile3.cpp(40,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile3.cpp(42,27): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile3.cpp(42,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_Monster.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_missile3.cpp(42,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(48,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(48,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(48,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(48,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(48,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(50,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(50,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(50,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(50,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_Player.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Monster.cpp(50,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(57,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(57,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(57,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(57,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(57,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(59,46): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(59,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(59,25): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(59,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_Stone.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Player.cpp(59,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(37,26): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(37,23): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(37,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(37,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(39,26): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(39,23): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(39,20): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  WinMain.cpp
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\Object_Stone.cpp(39,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(125,12): warning C4244:  '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(977,52): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(977,36): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(979,52): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(979,36): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(1077,26): warning C4154:  배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(1078,23): warning C4154:  배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(1079,20): warning C4154:  배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(115,17): warning C4101:  'oldbrush' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Dragon Flight\WinMain.cpp(115,9): warning C4101:  'hbrush' :참조되지 않은 지역 변수입니다.
+  Dragon Flight.vcxproj -> C:\Users\yjm12\Desktop\혜룡\공부\2016_Dragon-Flight\Dragon Flight\Debug\Dragon Flight.exe
